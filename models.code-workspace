@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\taskapp\\todo_app\\lib\\models"
+		},
+		{
+			"path": "..\\..\\..\\taskapp\\todo_app\\lib\\screens"
+		},
+		{
+			"path": "..\\..\\..\\taskapp\\todo_app\\lib\\widgets"
+		}
+	]
+}
